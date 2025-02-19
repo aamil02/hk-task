@@ -13,27 +13,27 @@ function swiper() {
 
     const data = [
         {
-            image: "/public/N1.png",
+            image: "/N1.png",
             desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos nemo aut, ducimus cumque velit nulla labore maxime deserunt alias consectetur.",
             date: "20 Jun 2020"
         },
         {
-            image: "/public/N2.png",
+            image: "/N2.png",
             desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos nemo aut, ducimus cumque velit nulla labore maxime deserunt alias consectetur.",
             date: "20 Jun 2020"
         },
         {
-            image: "/public/N3.png",
+            image: "/N3.png",
             desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos nemo aut, ducimus cumque velit nulla labore maxime deserunt alias consectetur.",
             date: "20 Jun 2020"
         },
         {
-            image: "/public/N4.png",
+            image: "/N4.png",
             desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos nemo aut, ducimus cumque velit nulla labore maxime deserunt alias consectetur.",
             date: "20 Jun 2020"
         },
         {
-            image: "/public/N5.png",
+            image: "/N5.png",
             desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quos nemo aut, ducimus cumque velit nulla labore maxime deserunt alias consectetur.",
             date: "20 Jun 2020"
         },

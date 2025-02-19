@@ -13,15 +13,15 @@ function Contact() {
         </div>
         <div className='flex gap-20 flex-col col-span-2 pl-10 xl:pl-0'>
             <div className='flex'>
-                <img className='w-[5rem] h-[5rem] opacity-40' src="/public/CU1.png" alt="" />
+                <img className='w-[5rem] h-[5rem] opacity-40' src="/CU1.png" alt="" />
                 <h2 className='text-[#2d2b2bfb] w-80 absolute p-12'>White Architectures 2787 Street,Fremont California <br />94538</h2>
             </div>
             <div className='flex'>
-                <img className='w-[5rem] h-[5rem] opacity-40' src="/public/CU2.png" alt="" />
+                <img className='w-[5rem] h-[5rem] opacity-40' src="/CU2.png" alt="" />
                 <h2 className='text-[#2d2b2bfb] absolute p-12 '>Wagetintouch@whitearch.com </h2>
             </div>
             <div className='flex'>
-                <img className='w-[5rem] h-[5rem] opacity-40' src="/public/CU3.png" alt="" />
+                <img className='w-[5rem] h-[5rem] opacity-40' src="/CU3.png" alt="" />
                 <h2 className='text-[#2d2b2bfb] absolute p-12 '>510-979-9360 </h2>
             </div>
         </div>

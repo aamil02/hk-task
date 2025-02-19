@@ -3,10 +3,10 @@ import logo from '../public/Logo.png'
 import backimg from '../public/P1.jpg'
 const Banner = () => {
   return (
-    <section  className='w-full h-screen bg-[url("/public/P1.jpg")] bg-cover bg-top overflow-x-hidden'  >
+    <section  className='w-full h-screen bg-[url("/P1.jpg")] bg-cover bg-top overflow-x-hidden'  >
         <section  className='w-full h-screen bg-black/75 '>
         <nav className='flex w-full h-fit fixed items-center justify-between xl:p-15'>
-             <img className='h-15 opacity-60' src={'/public/Logo.png'} alt="" /> 
+             <img className='h-15 opacity-60' src={'/Logo.png'} alt="" /> 
              <div className='text-[#A2A5A6] hidden xl:flex items-center justify-between gap-20' >
                 <h4>Projects</h4>
                 <h4>About</h4>
@@ -24,7 +24,7 @@ const Banner = () => {
             </div>
             </div>
             <div className='w-[35rem] xl:flex items-center justify-between'>
-                <img className='h-[30rem] w-[22rem] pt-40 xl:pt-10 ' src={'/public/P1.jpg'} alt="" />
+                <img className='h-[30rem] w-[22rem] pt-40 xl:pt-10 ' src={'/P1.jpg'} alt="" />
                 <div>
                   <h2 className='text-[#A2A5A6] text-[1.5rem] ' >1/5</h2>
                 </div>
